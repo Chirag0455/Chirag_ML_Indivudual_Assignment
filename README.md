@@ -108,9 +108,10 @@ This will:
 project/
 │
 ├── figures/
-│   ├── trainvsValidation_loss.png
-│   ├── trainVsValidation_accuracy.png
-
+│   ├── Training_Accuracy_comparision.png
+│   ├── Training_Loss_comparision.png
+│   ├── Validation_Accuracy_comparision.png
+│   ├── Validation_Loss_comparision.png
 │   └── ...
 │
 ├── ML&NN_Assign.ipynb
