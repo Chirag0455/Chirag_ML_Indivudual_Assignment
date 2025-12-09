@@ -108,14 +108,12 @@ This will:
 project/
 │
 ├── figures/
-│   ├── training_accuracy.png
-│   ├── validation_accuracy.png
-│   ├── training_loss.png
-│   ├── validation_loss.png
-│   ├── model_results_table.png
+│   ├── trainvsValidation_loss.png
+│   ├── trainVsValidation_accuracy.png
+
 │   └── ...
 │
-├── attention_comparison.ipynb
+├── ML&NN_Assign.ipynb
 ├── Chirag_ML_Report_24083279.pdf
 ├── README.md
 └── LICENSE
